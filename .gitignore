@@ -1,0 +1,42 @@
+# Build and publish output
+bin/
+obj/
+out/
+publish/
+
+# NuGet packages
+*.nupkg
+.nuget/
+
+# Local development files
+*.user
+*.suo
+*.userprefs
+
+# IDE specific files
+.vs/
+.vscode/
+.github/
+.idea/
+
+# Environment variables
+.env
+*.env.local
+
+# Logs and diagnostics
+logs/
+*.log
+*.tmp
+
+# Test results
+TestResults/
+*.trx
+
+# Code coverage
+coverage/
+*.coverage
+*.coverage.xml
+
+# OS generated files
+.DS_Store
+Thumbs.db
