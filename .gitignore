@@ -1,8 +1,8 @@
 # Build and publish output
-bin/
-obj/
-out/
-publish/
+bin/*
+obj/*
+out/*
+publish/*
 
 # NuGet packages
 *.nupkg
