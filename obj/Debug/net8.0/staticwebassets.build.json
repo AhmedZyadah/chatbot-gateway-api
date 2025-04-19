@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wc0+Cgmojk9ODOtzpv2JF698n3MznV6b487kd1iQPOI=",
+  "Source": "chatbot-gateway-api",
+  "BasePath": "_content/chatbot-gateway-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
